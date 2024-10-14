@@ -36,6 +36,12 @@
    - [代码见这里](test_taskbar.py)
    - [介绍以及说明见这里](https://www.cnblogs.com/yqbaowo/p/18459853)
 
+7. 使用 `aiohttp` 发送异步请求
+
+   - [代码见这里](test_async_request.py)
+   - [介绍以及说明见这里](https://www.cnblogs.com/yqbaowo/p/18464054)
+
+
 ### 许可
 
 [使用 GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.html)
