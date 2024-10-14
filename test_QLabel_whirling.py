@@ -12,7 +12,7 @@ from PyQt5.QtWidgets import QApplication, QLabel, QWidget, QGridLayout, QFrame, 
 from PyQt5.QtGui import QPixmap, QTransform
 from PyQt5.QtCore import QTimer, Qt, QMetaObject, QCoreApplication
 
-from examples.test_QLabel_rounded_corners import create_rounded_pixmap
+from test_QLabel_rounded_corners import create_rounded_pixmap
 
 
 class Ui_Whirling(object):
