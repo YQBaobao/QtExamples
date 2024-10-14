@@ -114,4 +114,3 @@ if __name__ == '__main__':
     # window = GIFRotatingLabel()
     window.show()
     sys.exit(app.exec_())
-
