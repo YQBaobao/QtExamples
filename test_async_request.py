@@ -60,4 +60,4 @@ if __name__ == "__main__":
     # sys.exit(app.exec_())
     # 在 asyncio 事件循环中运行应用程序
     with loop:
-        loop.run_forever()
+        sys.exit(loop.run_forever())
