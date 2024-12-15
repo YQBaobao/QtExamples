@@ -42,6 +42,11 @@ Show some `PyQt5` programming examples
     - [Code see here](test_async_request.py)
     - [Introduction and explanation see here](https://www.cnblogs.com/yqbaowo/p/18464054)
 
+8. Combined with `Logging` to display log information on `QPlainTextEdit`/`QTextBrowser`
+
+   - [Code here](test_QPlainTextEdit_Log.py)
+   - [Introduction and explanation see here](https://www.cnblogs.com/yqbaowo/p/18608186)
+
 ### License
 
 [Using GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.html)

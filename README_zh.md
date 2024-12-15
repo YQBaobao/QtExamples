@@ -41,6 +41,11 @@
    - [代码见这里](test_async_request.py)
    - [介绍以及说明见这里](https://www.cnblogs.com/yqbaowo/p/18464054)
 
+8. 结合 `Logging` 在 `QPlainTextEdit`/`QTextBrowser` 上显示日志信息
+
+   - [代码见这里](test_QPlainTextEdit_Log.py)
+   - [介绍以及说明见这里](https://www.cnblogs.com/yqbaowo/p/18608186)
+
 
 ### 许可
 
